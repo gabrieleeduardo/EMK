@@ -1,1 +1,1 @@
-# Estrat-gia-Multi-inquilino-Kubernetes-EMK-
+# Estratégia Multi-inqulino Kubernetes (EMK)
